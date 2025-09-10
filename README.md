@@ -180,6 +180,9 @@ method `main` in the file you choose to run.
 - [ ] You've puzzled through how Java `for` and `if` statements work; now rewrite this
 to use a `while` loop instead of a `for` loop.
 
+
+
+
 ## How to test this code
 
 How do you know that the code is correct? Part of the problem here is that we can't
